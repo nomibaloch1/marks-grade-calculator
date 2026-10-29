@@ -19,6 +19,7 @@ A simple beginner-level project made with HTML, CSS, and JavaScript.
 1. Download or clone this repository.
 2. Open `index.html` in your browser.
 3. Enter your marks and click **Calculate**.
+4. Or you can see the link in Description
 
 ## Made With
 - HTML
